@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./claudiiclaudian02claugoog_0482.png"; bbox 0 0 2662 4696; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 409 328 894 383">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 409 328 894 383">
+     <span class='ocr_line' id='line_1_1' title="bbox 409 328 894 383; baseline 0.014 -7"><span class='ocrx_word' id='word_1_1' title='bbox 409 328 531 379; x_wconf 76' lang='lat' dir='ltr'><strong>mnu</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 558 330 598 379; x_wconf 75' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 623 330 894 383; x_wconf 63' lang='lat' dir='ltr'><strong>mumma.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 369 1584 930 1641">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 369 1584 930 1641">
+     <span class='ocr_line' id='line_1_2' title="bbox 369 1584 930 1641; baseline -0.009 -2"><span class='ocrx_word' id='word_1_4' title='bbox 369 1588 465 1641; x_wconf 55' lang='lat' dir='ltr'><strong>21le</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 482 1586 636 1641; x_wconf 71' lang='lat' dir='ltr'><strong>omum</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 651 1586 705 1637; x_wconf 81' lang='lat' dir='ltr'><strong>CL.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 721 1584 930 1637; x_wconf 78' lang='lat' dir='ltr'>CLAUDIANI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1336 4696">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1336 4696">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1336 4696; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1336 4696; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
